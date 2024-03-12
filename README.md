@@ -1,2 +1,2 @@
-# DSA-Problems
+# DSA-Concepts
 Data Structures and Algorithms
